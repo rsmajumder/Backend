@@ -35,6 +35,8 @@ ALLOWED_HOSTS = []
 # pip install djangorestframework
 # pip install django-rest-knox
 # pip install django-otp
+# pip install django-cors-headers
+# pip install django-rest-knox
 
 INSTALLED_APPS = [
     'django.contrib.admin',
